@@ -9,7 +9,7 @@ A project to learn about the [t3 stack](https://create.t3.gg/)
 ## TODO
 
 - [x] Make it deploy (w/ vercel)
-- [ ] Scaffold basic ui with mock data
+- [x] Scaffold basic ui with mock data
 - [ ] Set up databa (w/ vercel postgresql)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
