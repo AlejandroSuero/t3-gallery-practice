@@ -15,6 +15,7 @@ A project to learn about the [t3 stack](https://create.t3.gg/)
 - [x] Add authentication (w/ clerk)
 - [ ] Add image upload
 - [ ] "taint" (server-only)
+- [ ] Use Next/Image component
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/image page (paraller route)
 - [ ] Delete button (w/ server actions)
